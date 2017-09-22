@@ -13,4 +13,4 @@ df = quandl.get_table('WIKI/PRICES', ticker='A')
 # df = df[['adj_close','HL_PCT','PCT_change','adj_volume']]
 
 print(df.head())
-print('hallo')
+print('hall')
